@@ -1,0 +1,5 @@
+pandas
+requests==2.23.0
+glom
+discord
+paho-mqtt
